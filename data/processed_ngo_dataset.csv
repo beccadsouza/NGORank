@@ -1,0 +1,101 @@
+id,name,class,public_opinion,response_time,establishment_time,office_start,office_end,public_impact,address,latitude,longitude
+1,All INDIA Human Right Protection,"[1, 2]",4.0,3.0,2008.0,1.0,0.0,5.0, Ceat Tyre Road Bhandup West Mumbai - 400078,,
+2,Athurta Foundation,"[3, 5, 7]",4.0,,2012.0,1000.0,1800.0,2.0, Off Marve Road Malad West mumbai - 400095,72.94411,19.154848
+3,Save the Smile Social Foundation,"[12, 11, 10, 6, 8, 5]",4.0,3.0,2015.0,1000.0,1830.0,2.0, Nityanand Nagar Road Ghatkopar West Mumbai - 400086,72.83263,19.18073
+4,The Child Health Foundation,"[5, 12, 22]",4.4,,2005.0,1000.0,1830.0,4.0, Kapad Bazar Road Mahim Mumbai - 400016,72.9078,19.0905
+5,Om Laxmi Charitable Trust,"[4, 5, 12, 2, 8, 9, 22]",2.5,2.0,2018.0,7000.0,2000.0,1.0, Gandhi Nagar Link Road Kandivali West Mumbai - 400067,72.843932,19.040405
+6,Kamal Arnav Charitable Trust,"[3, 8, 5]",4.5,2.0,2014.0,1000.0,2000.0,2.0, Sector 6 New Panvel Navi Mumbai - 410206,72.8351,19.213467
+7,YUG Foundation,"[2, 8, 6, 7, 3]",4.0,3.0,2015.0,0.0,2359.0,4.0, Mahatma Phule Road Dombivli West Mumbai - 421202,72.98997,19.07182
+8,Shri Babasai Bahuuddeshiya Sevabhavi Sanstha ,"[8, 3, 9, 6, 13]",3.5,3.0,2016.0,0.0,2359.0,2.0, 9 Green Square Kasarvadavali Thane - 400615,10.41944,5.47944
+9,Islamic Social and Cultural Foundation,"[2, 5, 6, 13, 9, 14, 12]",5.0,3.0,2005.0,0.0,2359.0,5.0, Post - Bhiwandi Bhiwandi Thane - 421302,151.702656,-28.160161
+10,Abundant Life Ministries,"[3, 2, 8, 22]",4.0,2.0,1999.0,9000.0,1700.0,5.0, Chapel Road Bandra West Mumbai - 400050,73.091442,19.325121
+11,Child Vision and Education,"[3, 9, 15, 6, 16, 17]",4.0,3.0,1998.0,1000.0,1900.0,5.0, Nupur Gally Mira Road Thane - 401107,72.84056,19.05444
+12,Sarah Help Foundation,[17],4.0,1.0,2018.0,1000.0,1800.0,1.0, 90 Feet Road Dharavi Mumbai - 400017,72.86497,19.28336
+13,Muskan Foundation,"[3, 15, 18, 19]",4.5,3.0,2007.0,930.0,1630.0,5.0,Prashanti Bugalow No 15 Bandra East Mumbai - 400051,72.853376,19.045171
+14,Aarna Foundation,"[3, 2, 5]",4.5,3.0,2012.0,900.0,2100.0,1.0, Gyanda Society Thane West Thane - 400606,8.0,61.0
+15,Sanjeevani Health Care Foundation,"[2, 3, 20, 9]",4.0,2.0,2015.0,900.0,1730.0,2.0, Chinchpada Kalyan East Thane - 421306,72.96333,19.18
+16,Satkarma Ashram,"[3, 5, 6]",3.5,2.0,2000.0,1000.0,2000.0,2.0, Sonivali Earanjad Road Badlapur Thane - 421503,73.15,19.25
+17,Shiwalaya,"[13, 2, 5, 18]",5.0,2.0,2002.0,0.0,2359.0,, Kalyan Murbad Road Murbad thane - 421401,,
+18,Aashapura Maa Foundation & Charitable Trust,"[3, 13, 9, 5, 20]",3.5,3.0,2012.0,1000.0,1830.0,2.0, S V Road Dahisar Mumbai - 400068,103.84935,1.308178
+19,Red Swastik Society,"[5, 3, 8, 2, 18, 13]",3.5,3.0,2001.0,1000.0,1800.0,5.0, Dr D N Road Fort Mumbai - 400001,72.853775,19.222544
+20,Sai Enpowerment Foundation,"[5, 2, 21]",3.5,3.0,2012.0,930.0,1830.0,2.0, Bank Road Thakur Village-Kandivali East Mumbai - 400101,72.83384,18.93631
+21,Mauli Foundation,"[5, 22]",4.5,2.0,2016.0,1100.0,1600.0,2.0, Teli Gali Cross Road Andheri East Mumbai - 400069,72.8728,19.1955
+22,Anand Seva Sangh,"[5, 22, 9, 12]",3.5,2.0,2007.0,1000.0,1800.0,4.0, L B S Marg Ghatkopar West Mumbai - 400086,72.859955,19.11545
+23,Second Inning House(om Shree Sai Foundation),"[3, 13]",3.5,3.0,2015.0,0.0,2359.0,2.0, By Pass Road Virar East mumbai - 401206,72.9078,19.0905
+24,Akshara Samajik Pratisthan,"[9, 16, 17]",4.5,2.0,,1000.0,1800.0,4.0, Chandroday CHS Chembur East Mumbai - 400071,72.83333,18.96667
+25,Child Help Foundation,"[3, 2, 9, 18, 16, 20, 9, 15, 23]",3.5,3.0,2009.0,930.0,1800.0,4.0, 403/404 Mira Road Thane - 401107,72.89969,19.05871
+26,Jan Swarajya Seva Foundation,"[5, 8, 9, 16, 10]",4.0,3.0,2018.0,1000.0,1800.0,1.0, Gouripada Talav Road Kalyan City Thane - 421301,-1.321541,51.400927
+27,Mahavir Ahinsa Sanskar Jagruti Sanstha,"[24, 2, 5, 9, 22]",3.5,2.0,2010.0,0.0,2359.0,4.0, Near Vikhroli Fatak Vikhroli East Mumbai - 400083,73.117017,19.248429
+28,Shree Manamv Seva Sangh,"[13, 5, 2, 3]",4.0,3.0,1924.0,1000.0,1800.0,5.0, Sion Road Sion Mumbai - 400022,72.937616,19.089471
+29,YMCA Colaba,"[17, 22]",4.0,2.0,1844.0,,,5.0, 12 Nathalal Parekh Marg Colaba Mumbai - 400005,4.352249,50.79227
+30,YMCA Andheri,[22],4.0,2.0,1974.0,1000.0,1800.0,4.0, D N NagarAndheri West Mumbai - 400053,18.82556,47.83139
+31,G5A,"[5, 8, 27]",4.5,2.0,1030.0,1030.0,1830.0,1.0,G5A Laxmi Mills Estate Mahalaxmi Mumbai - 400011,10.41944,5.47944
+32,Ymca International House,"[27, 17]",4.5,1.0,,1030.0,1830.0,,18 YMCA Road Mumbai Central Mumbai - 400008,20.6903,38.449917
+33,Vatsalya Trust,[24],4.5,3.0,1982.0,1100.0,1700.0,4.0, Near Kanjurmarg Police StationKanjurmarg East Mumbai - 400042,72.8235,18.9757
+34,Society For The Preventation Of Cruelty To Animals,[24],3.5,3.0,2002.0,0.0,2359.0,4.0, Kolshet Road Azad Nagar-Thane West Thane - 400607,32.49481,37.905155
+35,YMCA Khar,"[5, 3, 8]",4.5,2.0,1992.0,1000.0,1900.0,4.0, YMCA Road Khar West Mumbai - 400052,72.97186,19.211493
+36,YMCA Borivali,[22],4.0,3.0,2007.0,600.0,2100.0,4.0, Holy Cross Road Borivali West Mumbai - 400103,72.83054,18.924595
+37,Charity Organization Maharashtra State,[22],3.5,2.0,1998.0,1000.0,1830.0,2.0, Dr Annie Besant Road Worli Mumbai - 400018,72.85015,19.249447
+38,Kalaghoda Association,[22],4.0,3.0,1998.0,1000.0,1700.0,4.0, V B Gandhi Marg Fountain Mumbai - 400001,6.5833,52.9167
+39,St Catherines Home,"[5, 3, 6, 22]",4.2,2.0,1922.0,900.0,1730.0,5.0,Veera Desai Road Andheri West Mumbai - 400058,4.894932,52.375385
+40,Bombay Natural History Society,"[25, 8]",4.2,2.0,1833.0,930.0,1730.0,5.0, Shaheed Bhagat Singh Road Fort Mumbai - 400001,72.830765,19.135551
+41,Bombay Society For Prevention of Cruelty To Animals,"[22, 24]",3.8,3.0,1833.0,0.0,2359.0,5.0, Dr. S S Rao Road Parel Mumbai - 400012,72.8387,18.9336
+42,Nana Palkar Smruti Samiti,"[22, 12]",4.0,3.0,1968.0,0.0,2359.0,5.0, Rugna Seva Sadan Marg & Dr Babsaheb Ambedkar Road Parel Mumbai - 400012,6.5833,52.9167
+43,Child Rights And You,"[1, 5, 22]",4.2,2.0,1964.0,900.0,1700.0,4.0, Sane Guruji Marg Mahalaxmi Mumbai - 400011,,
+44,Goonj,[22],4.3,3.0,1998.0,1000.0,1700.0,4.0, Western Express Highway Road Kashimira-Mira Road Thane - 401107,72.82,18.96
+45,Wildlife Welfare Association,[24],4.5,3.0,2013.0,0.0,2359.0,1.0, Ghodbunder Road Ghodbander Thane - 401107,-2.5,5.5
+46,Vivekanand Seva Mandal,"[8, 26]",4.5,2.0,,1000.0,1900.0,2.0, Nerurkar Road Dombivli East Thane - 421201,16.29386,48.145391
+47,Shelter Don Bosco,"[5, 8]",4.2,2.0,1987.0,900.0,1700.0,2.0,Near Wadala Bridge Wadala West Mumbai - 400031,46.71123,24.748144
+48,Lions Club Of Ghatkopar,"[8, 22]",3.9,2.0,1958.0,900.0,1900.0,5.0,Plot No. E-93 Ghatkopar East Mumbai - 400077,72.853578,19.013971
+49,Shiv Shakti Women's welfare association,"[2, 5, 17]",3.8,2.0,2012.0,1100.0,2200.0,2.0, GTB Station Road Sion Mumbai - 400022,8.0,61.0
+50,Baba Bhaskar Pawar Vrudashram Trust,"[22, 38, 2, 9, 24, 12, 15, 18]",4.5,2.0,2013.0,900.0,2200.0,1.0, National Highway No-8 Virar East Palghar - 401303,72.82,18.96
+51,Vatsalya Trust,[5],4.2,3.0,1982.0,1100.0,1700.0,3.0, Near Kanjurmarg Police StationKanjurmarg East Mumbai - 400042,8.0,61.0
+52,The Akanksha Foundation,"[5, 7, 9, 17, 27]",4.1,2.0,1991.0,930.0,1800.0,2.0, T B Kadam Marg Chinchpokli Mumbai - 400011,32.49481,37.905155
+53,Balanand World Children Welfare Trust India,"[3, 5, 17, 27]",4.1,2.0,1984.0,1030.0,1830.0,2.0, SAI Krupa Building Chembur East Mumbai - 400071,23.793674,38.059624
+54,YMCA,"[27, 28]",4.0,2.0,1982.0,800.0,2000.0,2.0,Nscci Centre Ghatkopar East Mumbai - 400075,72.89969,19.05871
+55,Plant And Animals Welfare Society,"[24, 27, 29, 30]",4.0,2.0,2001.0,1000.0,1800.0,2.0, Dr Mukherjee Road Dombivli East Thane - 421201,11.52028,3.86139
+56,Karuna Parivar Trust,"[17, 27, 29, 30]",3.9,2.0,,1000.0,1800.0,2.0, Aarey Road Goregaon West Mumbai - 400062,46.71123,24.748144
+57,Reliance Foundation,[27],4.9,3.0,,0.0,2359.0,3.0, Maker Chambers IV Nariman Point Mumbai - 400021,72.839616,19.161955
+58,Kotak Education Foundation,[27],4.1,2.0,,1000.0,1800.0,2.0, Ujagar Silk Mills Deonar Mumbai - 400088,72.822365,18.924961
+59,National Society For Equal Opportunities For Handicapped,"[17, 18, 27]",4.1,3.0,1968.0,930.0,1830.0,3.0,Postal Colony Road Chembur East Mumbai - 400071,140.87138,38.264606
+60,Swagat Ashram Charitable trust,"[2, 3, 5, 7, 9, 13, 17, 26, 27, 31, 32]",4.0,2.0,2008.0,900.0,2100.0,3.0,Marve Road Malad West Mumbai - 400095,72.900635,19.069359
+61,Swabhimaan Sanghatna,[27],4.0,1.0,2006.0,1000.0,1800.0,2.0, S V Road Bandra West Mumbai - 400050,72.8347,19.1849
+62,Bal Sevashram Sangha,"[5, 16, 27]",4.0,2.0,1917.0,0.0,2359.0,2.0, Swami Pranavanandji Marg Vashi Navi Mumbai - 400703,72.84056,19.05444
+63,Cancer Patients Aid Assocation,"[16, 27]",4.0,2.0,1969.0,1000.0,1800.0,2.0, Dr. E Moses Road Mahalaxmi Mumbai - 400011,73.07007,19.045242
+64,Vatsalya Foundation,"[3, 5, 7, 17, 27]",4.0,2.0,1982.0,1000.0,1700.0,3.0, Dr E Moses Road Mahalaxmi Mumbai - 400011,6.5833,52.9167
+65,World of Animal Care and Adoption,"[24, 27, 33]",3.7,2.0,2009.0,900.0,1830.0,2.0, Mumbai - 400093Andheri East Mumbai - 400093,6.5833,52.9167
+66,Creative Handicrafts,"[27, 34]",4.2,2.0,1994.0,900.0,1730.0,2.0, D P Road No 11 Andheri East Mumbai - 400093,72.83333,18.96667
+67,Kherwadi Social Welfare Association,"[26, 27, 35]",4.0,3.0,1928.0,1000.0,1800.0,3.0, Teen Bungalow Road Kherwadi-Bandra East Mumbai - 400051,72.8712,19.1145
+68,Modern Educational Social and Cultural Organization,"[17, 27]",4.0,2.0,1968.0,900.0,1700.0,2.0, Tulsi Pipe Road Mahim Mumbai - 400016,72.85551,19.062792
+69,Paani foundation,"[27, 11]",4.5,3.0,,,,5.0, Talmiki Road Santacruz West Mumbai - 400054,72.84409,19.022575
+70,Kisangopal Rajpuria Vanaprashtashram,"[13, 27]",4.0,2.0,1982.0,900.0,1700.0,2.0,Uttan Road Bhayandar East Thane - 401106,72.83666,19.083336
+71,Aamcha Ghar,"[3, 5, 17, 27]",4.0,2.0,1997.0,1000.0,2000.0,2.0, Bhayandar West Uttan Thane - 401106,72.861556,19.306722
+72,Consumer Guidance society of India,"[27, 36]",,,1966.0,1000.0,1700.0,, Mahapalika Marg Fort Mumbai - 400001,72.8511,19.3016
+73,Konkan Kala Va Sikshan Vikas Sanstha,"[2, 9, 27]",4.5,3.0,,930.0,1830.0,3.0, Mmg Marg Dadar East Mumbai - 400014,12.505063,55.661163
+74,Urban Community development Centre,[27],4.0,2.0,1971.0,930.0,1900.0,2.0, 14th Road Bandra West Mumbai - 400050,72.84476,19.01798
+75,Magic Bus India(Head Office),[27],4.0,2.0,,900.0,1800.0,2.0, LBS Marg Vikhroli West Mumbai - 400079,10.41944,5.47944
+76,Nagpada Neighbourhood house,"[27, 37]",3.5,2.0,1927.0,930.0,1700.0,2.0, Sofia Zuber Road Nagpada-Mumbai Central Mumbai - 400008,72.921567,19.11333
+77,Helpage India,"[13, 17, 27]",4.1,3.0,1978.0,,,3.0, Jaiprakash Road Andheri West Mumbai - 400053,23.33333,42.7
+78,Seal Ashram,"[5, 6, 22, 27]",4.0,2.0,1989.0,900.0,1800.0,3.0,Office No L S 35/ 7/ 1 New Panvel Navi Mumbai - 410206,72.830765,19.135551
+79,Sankalp Pratishthan,[27],4.0,2.0,,0.0,2359.0,2.0, Wagle Estate Raghunath Nagar Thane - 400604,,
+80,Suvarna Konkan Foundation,[27],4.0,2.0,2014.0,900.0,1800.0,3.0, Station Road Ghatkopar East Mumbai - 400075,72.95365,19.197916
+81,Child Vision Foundation,"[3, 5, 18, 27, 38]",4.0,2.0,,0.0,2359.0,2.0, Sion Trombay Road Chembur East Mumbai - 400071,72.905931,19.078305
+82,Human Rights Council of India,"[2, 3, 5, 6, 7, 9, 13, 17, 26, 28, 25, 27, 38, 39]",4.0,2.0,2013.0,930.0,1830.0,3.0, Shiv Vallabh Road Dahisar Mumbai - 400068,72.86423,19.042686
+83,Asset Reconstruction Company India LTD.,"[27, 40]",4.0,2.0,2002.0,1000.0,1900.0,2.0, Senapati Bapat Marg Dadar West Mumbai - 400028,72.82,18.96
+84,Arzoo Swabhiman Nagarik Samiti,[27],3.7,2.0,2012.0,1130.0,1700.0,2.0, Dreams Mall Bhandup West Mumbai - 400078,72.82545,18.996067
+85,Anand Niketan,"[13, 27, 2, 18, 41]",4.1,2.0,1938.0,900.0,1800.0,2.0, Dr E Moses Road Mahalaxmi Mumbai - 400011,72.936455,19.145601
+86,Chembur Children's Home,"[5, 27]",4.0,2.0,1939.0,1030.0,1730.0,2.0,V N Purao Marg Mankhurd Mumbai - 400088,6.5833,52.9167
+87,Bharatiya Janata Party Cultural Cell ,"[17, 27]",3.9,2.0,,,,2.0, Navkiran Marg Andheri West Mumbai - 400053,72.9333,19.05
+88,Salaam Bombay Foundation,[27],4.4,2.0,2002.0,900.0,1700.0,2.0, Nirmal Building Nariman Point Mumbai - 400021,72.820458,19.139348
+89,GreenSole,"[5, 17, 27]",4.0,2.0,,0.0,2359.0,3.0, C/O Ram Fashion Exports Mahape Navi Mumbai - 400710,72.82071,18.927877
+90,Save Our Strays,"[24, 27, 33]",3.0,2.0,2002.0,1000.0,1800.0,2.0, Garden View Building Andheri West Mumbai - 400053,73.028111,19.109989
+91,Children Of the World Trust,"[5, 7, 42]",4.1,2.0,1982.0,900.0,1700.0,2.0, Plot No 9 and 10 Nerul Navi Mumbai - 400706,72.820458,19.139348
+92,Bapnu Ghar,"[2, 17, 27, 37, 43]",4.0,2.0,,1000.0,1630.0,3.0,12 Dr Annie Besant Road Worli Mumbai - 400018,73.0172,19.0242
+93,Jeevan Darshan Kendra,[27],4.1,2.0,,900.0,1830.0,2.0, Near GirijVasai West Palghar - 401202,6.5833,52.9167
+94,Womens India Trust,"[2, 17, 27]",4.0,2.0,1968.0,930.0,1730.0,2.0, Bunder Road Panvel Navi Mumbai - 410206,10.41944,5.47944
+95,United Way Mumbai,"[17, 27, 38]",4.0,2.0,2003.0,1000.0,1800.0,2.0, Dr. E Moses Road Mahalaxmi Mumbai - 400011,103.84935,1.308178
+96,Plants and animals Welfare Society ,"[24, 27, 30]",3.0,2.0,2002.0,1100.0,1700.0,2.0, Gamdevi Road Bhandup West Mumbai - 400078,6.5833,52.9167
+97,Girija Foundation,"[3, 5, 8, 9, 20, 27, 13]",4.1,2.0,2012.0,900.0,2100.0,3.0, Mumbai Pune Road Panvel Navi Mumbai - 410206,72.81238,18.958693
+98,Leonard Chesire disability home,"[18, 27]",4.0,2.0,1956.0,1000.0,1700.0,3.0, Mahakali Caves Road Andheri East Mumbai - 400093,73.126936,18.980485
+99,Antrang Foundation,"[26, 27, 37]",4.5,2.0,,1000.0,1800.0,3.0, Dr Ss Rao Marg Lal Baug Mumbai - 400012,72.86018,19.117126
+100,Neem Foundation,[27],4.5,2.0,,1000.0,1800.0,2.0, Road 12 Juhu Mumbai - 400049,30.0,7.0
